@@ -8,11 +8,8 @@ import './App.css';
 const App = ({ styles }) => {
   return (
     <div>
-      <div className="game" style={styles.game}>
+      <div className="game">
         <FlatrisGame />
-      </div>
-      <div className="preview" style={styles.preview}>
-        <FlatrisStatePreview />
       </div>
     </div>
   );

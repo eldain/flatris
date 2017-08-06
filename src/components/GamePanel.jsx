@@ -74,7 +74,6 @@ class GamePanel extends React.Component {
 
     return (
       <div className="game-panel" style={styles.root}>
-        <p className="title" style={styles.title}>Flatris</p>
         <p className="label" style={styles.label}>Score</p>
         <p className="count" style={styles.count}>{score}</p>
         <p className="label" style={styles.label}>Lines Cleared</p>

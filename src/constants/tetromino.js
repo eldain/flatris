@@ -1,11 +1,11 @@
 export const COLORS = {
-  I: '#3cc7d6',
-  O: '#fbb414',
-  T: '#b04497',
-  J: '#3993d0',
-  L: '#ed652f',
-  S: '#95c43d',
-  Z: '#e84138'
+  I: '#0D1321',
+  O: '#28536B',
+  T: '#80475E',
+  J: '#F0EBD8',
+  L: '#0D1321',
+  S: '#28536B',
+  Z: '#80475E'
 };
 
 // The Shapes and their rotation was inspired from

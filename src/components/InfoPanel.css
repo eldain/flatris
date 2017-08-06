@@ -1,5 +1,5 @@
 .info-panel {
-  color: #34495f;
+  color: #fff;
 }
 
 .info-panel p {
@@ -8,7 +8,7 @@
 }
 
 .info-panel a {
-  color: #34495f;
+  color: wheat;
   font-weight: bold;
   text-decoration: none;
 }

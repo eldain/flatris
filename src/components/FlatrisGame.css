@@ -10,21 +10,21 @@
   position: absolute;
   top: 0;
   left: 0;
-  background: #ecf0f1;
+  background: #214E41;
 }
 
 .flatris-game .info-panel-container {
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(236, 240, 241, 0.85);
+  background: rgba(0, 0, 0, 0.75);
 }
 
 .flatris-game .game-panel-container {
   position: absolute;
   top: 0;
   right: 0;
-  background: #fff;
+  background: #0D1321;
 }
 
 .flatris-game .controls {
@@ -35,12 +35,12 @@
 .flatris-game .controls button {
   position: absolute;
   top: 0;
-  background: #ecf0f1;
-  color: #34495f;
+  background: #34495f;
+  color: #fff;
 }
 
 .flatris-game .controls button svg {
-  fill: #34495f;
+  fill: #fff;
 }
 
 .flatris-game .controls button:nth-child(1) {
